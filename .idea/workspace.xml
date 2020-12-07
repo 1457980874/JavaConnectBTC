@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc70b6c3-19a7-4b20-b5fd-d28449d71000" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BitCoinConnect" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lAhYUcmvUQAYNUTZvMDd3Qa922" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaProject\BitCoinConnect\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaProject\BitCoinConnect\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BTCconnect">
+    <configuration name="BTCconnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.BTC.rpcConnect.BTCconnect" />
+      <module name="BitCoinConnect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.BTC.rpcConnect.Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.BTC.rpcConnect.Demo.JSONdemo" />
+      <module name="BitCoinConnect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.BTC.rpcConnect.Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.BTC.rpcConnect.Demo.JsonArrayDemo" />
+      <module name="BitCoinConnect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.BTC.rpcConnect.Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.BTC.rpcConnect.mapDemo" />
+      <module name="BitCoinConnect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.BTC.rpcConnect.Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BTCconnect" />
+        <item itemvalue="Application.mapDemo" />
+        <item itemvalue="Application.JSONdemo" />
+        <item itemvalue="Application.JsonArrayDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc70b6c3-19a7-4b20-b5fd-d28449d71000" name="Default Changelist" comment="" />
+      <created>1607045850818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607045850818</updated>
+      <workItem from="1607045856966" duration="5650000" />
+      <workItem from="1607252026607" duration="3565000" />
+      <workItem from="1607302008820" duration="14898000" />
+      <workItem from="1607338029382" duration="5545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1607342522463">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="422" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1607342522463" />
+    <state x="616" y="149" key="FileChooserDialogImpl" timestamp="1607304218082">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="616" y="149" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1607304218082" />
+    <state width="1237" height="202" key="GridCell.Tab.0.bottom" timestamp="1607344711210">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1607344711210" />
+    <state width="1237" height="202" key="GridCell.Tab.0.center" timestamp="1607344711210">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1607344711210" />
+    <state width="1237" height="202" key="GridCell.Tab.0.left" timestamp="1607344711210">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1607344711210" />
+    <state width="1237" height="202" key="GridCell.Tab.0.right" timestamp="1607344711210">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1607344711210" />
+    <state width="1237" height="202" key="GridCell.Tab.1.bottom" timestamp="1607344711210">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1607344711210" />
+    <state width="1237" height="202" key="GridCell.Tab.1.center" timestamp="1607344711210">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1607344711210" />
+    <state width="1237" height="202" key="GridCell.Tab.1.left" timestamp="1607344711210">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1607344711210" />
+    <state width="1237" height="202" key="GridCell.Tab.1.right" timestamp="1607344711210">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1607344711210" />
+    <state x="628" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1607252051804">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="628" y="346" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1607252051804" />
+    <state x="56" y="0" key="new project wizard" timestamp="1607252557570">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="56" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1607252557570" />
+    <state x="569" y="160" key="run.anything.popup" timestamp="1607254599223">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="569" y="160" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1607254599223" />
+  </component>
+</project>
